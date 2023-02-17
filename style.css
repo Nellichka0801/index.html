@@ -1,0 +1,13 @@
+html {
+    background-color: rgb(229, 210, 247);
+}
+h1{
+    color: #430303;
+}
+h2{
+    color: blue;
+}
+.big_text {
+    font-size: 25px;
+    color: #f40a0a;
+}
